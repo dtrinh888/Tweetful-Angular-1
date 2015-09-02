@@ -201,6 +201,10 @@ table.stats td:first-child {
   text-align: center;
 }
 
+.info h2 {
+  text-align: center;
+}
+
 .info-container {
   text-align: center;
 }
